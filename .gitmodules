@@ -1,0 +1,200 @@
+[submodule "core-comm-can"]
+	path = core-comm-can
+	url = https://github.com/novalabs/core-comm-can.git
+	branch = master
+[submodule "core-base"]
+	path = core-base
+	url = https://github.com/novalabs/core-base.git
+	branch = master
+[submodule "core-os"]
+	path = core-os
+	url = https://github.com/novalabs/core-os.git
+	branch = master
+[submodule "core-mw"]
+	path = core-mw
+	url = https://github.com/novalabs/core-mw.git
+	branch = master
+[submodule "core-hw"]
+	path = core-hw
+	url = https://github.com/novalabs/core-hw.git
+	branch = master
+[submodule "core-utils"]
+	path = core-utils
+	url = https://github.com/novalabs/core-utils.git
+	branch = master
+[submodule "core-transport-rtcan"]
+	path = core-transport-rtcan
+	url = https://github.com/novalabs/core-transport-rtcan.git
+	branch = master
+[submodule "core-transport-debug"]
+	path = core-transport-debug
+	url = https://github.com/novalabs/core-transport-debug.git
+	branch = master
+[submodule "core-cmake"]
+	path = core-cmake
+	url = https://github.com/novalabs/core-cmake.git
+	branch = master
+[submodule "chibios_16"]
+	path = chibios_16
+	url = https://github.com/novalabs/chibios_16.git
+	branch = novalabs-master
+[submodule "core-tools"]
+	path = core-tools
+	url = https://github.com/novalabs/core-tools.git
+	branch = master
+[submodule "core-bootloader"]
+	path = core-bootloader
+	url = https://github.com/novalabs/core-bootloader.git
+	branch = master
+[submodule "modules/usb"]
+	path = modules/usb
+	url = https://github.com/novalabs/usb_module.git
+	branch = master
+[submodule "modules/udc"]
+	path = modules/udc
+	url = https://github.com/novalabs/udc_module.git
+	branch = master
+[submodule "modules/dc"]
+	path = modules/dc
+	url = https://github.com/novalabs/dc_module.git
+	branch = master
+[submodule "modules/imu"]
+	path = modules/imu
+	url = https://github.com/novalabs/imu_module.git
+	branch = master
+[submodule "modules/stepper"]
+	path = modules/stepper
+	url = https://github.com/novalabs/stepper_module.git
+	branch = master
+[submodule "modules/io"]
+	path = modules/io
+	url = https://github.com/novalabs/io_module.git
+	branch = master
+[submodule "modules/eth"]
+	path = modules/eth
+	url = https://github.com/novalabs/eth_module.git
+	branch = master
+[submodule "modules/eth-poe"]
+	path = modules/eth-poe
+	url = https://github.com/novalabs/eth-poe_module.git
+	branch = master
+[submodule "modules/proximity"]
+	path = modules/proximity
+	url = https://github.com/novalabs/proximity_module.git
+	branch = master
+[submodule "modules/adc"]
+	path = modules/adc
+	url = https://github.com/novalabs/adc_module.git
+	branch = master
+[submodule "packages/snippets"]
+	path = packages/snippets
+	url = https://github.com/novalabs/snippets.git
+	branch = master
+[submodule "packages/common_msgs"]
+	path = packages/common_msgs
+	url = https://github.com/novalabs/common_msgs.git
+	branch = master
+[submodule "packages/common"]
+	path = packages/common
+	url = https://github.com/novalabs/common.git
+	branch = master
+[submodule "packages/led"]
+	path = packages/led
+	url = https://github.com/novalabs/led.git
+	branch = master
+[submodule "packages/madgwick"]
+	path = packages/madgwick
+	url = https://github.com/novalabs/madgwick.git
+	branch = master
+[submodule "packages/pid"]
+	path = packages/pid
+	url = https://github.com/novalabs/pid.git
+	branch = master
+[submodule "packages/pid_msgs"]
+	path = packages/pid_msgs
+	url = https://github.com/novalabs/pid_msgs.git
+	branch = master
+[submodule "packages/actuator_msgs"]
+	path = packages/actuator_msgs
+	url = https://github.com/novalabs/actuator_msgs.git
+	branch = master
+[submodule "packages/actuator_subscriber"]
+	path = packages/actuator_subscriber
+	url = https://github.com/novalabs/actuator_subscriber.git
+	branch = master
+[submodule "packages/sensor_msgs"]
+	path = packages/sensor_msgs
+	url = https://github.com/novalabs/sensor_msgs.git
+	branch = master
+[submodule "packages/sensor_publisher"]
+	path = packages/sensor_publisher
+	url = https://github.com/novalabs/sensor_publisher.git
+	branch = master
+[submodule "packages/A4957_driver"]
+	path = packages/A4957_driver
+	url = https://github.com/novalabs/A4957_driver.git
+	branch = master
+[submodule "packages/MC33926_driver"]
+	path = packages/MC33926_driver
+	url = https://github.com/novalabs/MC33926_driver.git
+	branch = master
+[submodule "packages/L6470_driver"]
+	path = packages/L6470_driver
+	url = https://github.com/novalabs/L6470_driver.git
+	branch = master
+[submodule "packages/L3GD20H_driver"]
+	path = packages/L3GD20H_driver
+	url = https://github.com/novalabs/L3GD20H_driver.git
+	branch = master
+[submodule "packages/LSM303D_driver"]
+	path = packages/LSM303D_driver
+	url = https://github.com/novalabs/LSM303D_driver.git
+	branch = master
+[submodule "packages/QEI_driver"]
+	path = packages/QEI_driver
+	url = https://github.com/novalabs/QEI_driver.git
+	branch = master
+[submodule "packages/stm32_qei"]
+	path = packages/stm32_qei
+	url = https://github.com/novalabs/stm32_qei.git
+	branch = master
+[submodule "packages/stm32_crc"]
+	path = packages/stm32_crc
+	url = https://github.com/novalabs/stm32_crc.git
+	branch = master
+[submodule "packages/stm32_flash"]
+	path = packages/stm32_flash
+	url = https://github.com/novalabs/stm32_flash.git
+	branch = master
+[submodule "packages/ADS1262_driver"]
+	path = packages/ADS1262_driver
+	url = https://github.com/novalabs/ADS1262_driver.git
+	branch = master
+[submodule "packages/basic_sensors"]
+	path = packages/basic_sensors
+	url = https://github.com/novalabs/basic_sensors.git
+	branch = master
+[submodule "packages/lwip_bindings"]
+	path = packages/lwip_bindings
+	url = https://github.com/novalabs/lwip_bindings.git
+	branch = master
+[submodule "libs/paho.mqtt.embedded-c"]
+	path = libs/paho.mqtt.embedded-c
+	url = https://github.com/eclipse/paho.mqtt.embedded-c.git
+	branch = master
+[submodule "libs/mbedtls"]
+	path = libs/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+	branch = mbedtls-2.4
+[submodule "packages/DRV8801_driver"]
+	path = packages/DRV8801_driver
+	url = https://github.com/novalabs/DRV8801_driver.git
+	branch = master
+[submodule "packages/fatfs_wrapper"]
+	path = packages/fatfs_wrapper
+	url = https://github.com/novalabs/fatfs_wrapper.git
+	branch = master
+[submodule "packages/networking"]
+	path = packages/networking
+	url = https://github.com/novalabs/networking.git
+	branch = master
