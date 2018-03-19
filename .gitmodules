@@ -201,3 +201,6 @@
 [submodule "libs/uROSnode"]
 	path = libs/uROSnode
 	url = https://github.com/novalabs/uROSnode.git
+[submodule "packages/pid_ie"]
+	path = packages/pid_ie
+	url = https://github.com/novalabs/pid_ie.git
