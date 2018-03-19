@@ -198,3 +198,6 @@
 	path = packages/networking
 	url = https://github.com/novalabs/networking.git
 	branch = master
+[submodule "libs/uROSnode"]
+	path = libs/uROSnode
+	url = https://github.com/novalabs/uROSnode.git
