@@ -214,3 +214,7 @@
 	path = libs/ptpd-2.0.0
 	url = https://github.com/novalabs/ptpd-2.0.0.git
 	branch = master
+[submodule "modules/dc-hv"]
+	path = modules/dc-hv
+	url = https://github.com/novalabs/dc-hv_module.git
+	branch = master
