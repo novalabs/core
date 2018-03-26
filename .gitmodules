@@ -166,10 +166,6 @@
 	path = packages/stm32_flash
 	url = https://github.com/novalabs/stm32_flash.git
 	branch = master
-[submodule "packages/ADS1262_driver"]
-	path = packages/ADS1262_driver
-	url = https://github.com/novalabs/ADS1262_driver.git
-	branch = master
 [submodule "packages/basic_sensors"]
 	path = packages/basic_sensors
 	url = https://github.com/novalabs/basic_sensors.git
