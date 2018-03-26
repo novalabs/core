@@ -218,3 +218,7 @@
 	path = modules/dc-hv
 	url = https://github.com/novalabs/dc-hv_module.git
 	branch = master
+[submodule "packages/ADS126x_driver"]
+	path = packages/ADS126x_driver
+	url = https://github.com/novalabs/ADS126x_driver.git
+	branch = master
