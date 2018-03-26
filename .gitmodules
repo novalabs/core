@@ -206,3 +206,7 @@
 	path = packages/pid_ie
 	url = https://github.com/novalabs/pid_ie.git
 	branch = master
+[submodule "libs/lwip"]
+	path = libs/lwip
+	url = https://github.com/novalabs/lwip.git
+	branch = novalabs-master
