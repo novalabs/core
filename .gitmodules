@@ -248,3 +248,6 @@
 [submodule "modules/usb-stick_dfu_bootloader"]
 	path = modules/usb-stick_dfu_bootloader
 	url = https://github.com/novalabs/usb-stick_dfu_bootloader_module.git
+[submodule "libs/ArduinoJson"]
+	path = libs/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
