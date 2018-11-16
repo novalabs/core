@@ -218,3 +218,33 @@
 	path = packages/ADS126x_driver
 	url = https://github.com/novalabs/ADS126x_driver.git
 	branch = master
+[submodule "modules/adc_bootloader"]
+	path = modules/adc_bootloader
+	url = https://github.com/novalabs/adc_bootloader_module.git
+[submodule "modules/dc_bootloader"]
+	path = modules/dc_bootloader
+	url = https://github.com/novalabs/dc_bootloader_module.git
+[submodule "modules/dc-hv_bootloader"]
+	path = modules/dc-hv_bootloader
+	url = https://github.com/novalabs/dc-hv_bootloader_module.git
+[submodule "modules/udc_bootloader"]
+	path = modules/udc_bootloader
+	url = https://github.com/novalabs/udc_bootloader_module.git
+[submodule "modules/io_bootloader"]
+	path = modules/io_bootloader
+	url = https://github.com/novalabs/io_bootloader_module.git
+[submodule "modules/imu_bootloader"]
+	path = modules/imu_bootloader
+	url = https://github.com/novalabs/imu_bootloader_module.git
+[submodule "modules/eth-poe_dfu_bootloader"]
+	path = modules/eth-poe_dfu_bootloader
+	url = https://github.com/novalabs/eth-poe_dfu_bootloader_module.git
+[submodule "modules/eth_dfu_bootloader"]
+	path = modules/eth_dfu_bootloader
+	url = https://github.com/novalabs/eth_dfu_bootloader_module.git
+[submodule "modules/usb_dfu_bootloader"]
+	path = modules/usb_dfu_bootloader
+	url = https://github.com/novalabs/usb_dfu_bootloader_module.git
+[submodule "modules/usb-stick_dfu_bootloader"]
+	path = modules/usb-stick_dfu_bootloader
+	url = https://github.com/novalabs/usb-stick_dfu_bootloader_module.git
