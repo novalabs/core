@@ -251,3 +251,6 @@
 [submodule "libs/ArduinoJson"]
 	path = libs/ArduinoJson
 	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "modules/usb-stick"]
+	path = modules/usb-stick
+	url = https://github.com/novalabs/usb-stick_module.git
